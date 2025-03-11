@@ -234,7 +234,7 @@ const Settings: React.FC = () => {
           <div className="space-y-2 text-muted-foreground">
             <p>Version: 1.0.0 Beta</p>
             <p>Our Voice Becomes Your Vision</p>
-            <p>© 2023 Vision Mate</p>
+            <p>© 2025 Vision Mate</p>
           </div>
         </section>
         
